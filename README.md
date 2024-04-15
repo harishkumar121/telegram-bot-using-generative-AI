@@ -1,7 +1,4 @@
-# telegram-bot-using-generative-AI
-
 # Telagram-Bot-using-GenAI
-
 
 ## Prerequisites
 
