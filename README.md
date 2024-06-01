@@ -21,7 +21,7 @@ Project repo: https://github.com/harishkumar121/telegram-bot-using-generative-AI
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n telebot python=3.9 -y
+conda create -n telebot python=3.10 -y
 ```
 
 ```bash
